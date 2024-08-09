@@ -1,6 +1,6 @@
-## Python Flask Blog Site
+## Better Health Content For Health Related Talk with ME
 
-This is a simple blog inspired by TechWithTim site built using Python , Flask and HTML.
+Health Blog
 
 ## Features
 
